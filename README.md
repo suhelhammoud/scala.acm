@@ -3,7 +3,7 @@ Several ACM  problems solved in Scala Programming Language
 
 I've created this repository to try Scala programming language in solving problems presented by ACM contests. In such contests, C++ is the dominant used language.
 
-So far, I have tried few problems from [codeforce](http://codeforces.com).
+So far, I have tried few problems from [codeforces](http://codeforces.com).
 
 ### My own remarks: (to be updated)
 
