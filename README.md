@@ -13,4 +13,4 @@ So far, I have tried few problems from [codeforces](http://codeforces.com).
 
 
 ### Conclusion (so far)
-  Scala is not good candidate language for ACM contests yet due to startup times. Also, code in time critical sections tends to be similar to C++ empirical programming one with loops working on mutable datastructures.
+  Scala is not good candidate language for ACM contests yet due to startup times. Also, code in time critical sections tends to be similar to C++ imperative programming one with loops working on mutable datastructures.
